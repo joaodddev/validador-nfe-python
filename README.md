@@ -49,7 +49,7 @@ Esses arquivos permitem análise rápida, auditoria e integração com outros pr
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/joaodddev/validador-automatico-nfs-python.git
+git clone https://github.com/joaodddev/validador-nfe-python.git
 ```
 
 2. Acesse a pasta do projeto:
